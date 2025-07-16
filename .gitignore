@@ -13,3 +13,6 @@ __pycache__/
 
 # Environment files
 *.env
+
+# Raw data files
+data/raw/Listing_Titles.tsv
