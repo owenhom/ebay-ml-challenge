@@ -1,0 +1,10 @@
+transformers>=4.8.0
+datasets
+torch
+seqeval
+scikit-learn
+numpy
+pandas
+tqdm
+evaluate
+evalai

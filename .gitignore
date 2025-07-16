@@ -1,0 +1,15 @@
+# Ignore model checkpoints and large outputs
+models/
+pretrained/
+outputs/
+logs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Environment files
+*.env
